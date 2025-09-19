@@ -5,8 +5,6 @@ un
 test
 123
 456
-<<<<<<< HEAD
 Ceci est une modification locale
-=======
 Ceci est une modification distante
->>>>>>> a3bc507474b45159655be75e3559b4e4435b056e
+789
